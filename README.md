@@ -1,0 +1,1 @@
+This project was created specifically for my friend who constantly says that he does not have time to study design patterns. Every day one pattern will be published here to make it easier for him to learn them. Each pattern has a text description and a working example. **LEARN THE PATTERNS, IDIOT!**
