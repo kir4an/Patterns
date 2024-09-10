@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package chainOfResponsibility;
 
 public class Level3Support extends SupportHandler {
 

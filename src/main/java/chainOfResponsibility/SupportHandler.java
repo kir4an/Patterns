@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package chainOfResponsibility;
 
 public abstract class SupportHandler {
     protected SupportHandler successor;

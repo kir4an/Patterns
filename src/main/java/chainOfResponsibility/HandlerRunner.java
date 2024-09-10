@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package chainOfResponsibility;
 
 public class HandlerRunner {
     public static void main(String[] args) {
